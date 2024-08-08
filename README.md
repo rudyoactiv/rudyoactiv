@@ -9,13 +9,10 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 📫 Get In Touch
 
-<!--- [LinkedIn](https://www.linkedin.com/in/its-rudraneel/)
-- [GitHub](https://github.com/rudyoactiv)
-- [HackerRank](https://www.hackerrank.com/profile/its_rudraneel)
-- [LeetCode](https://leetcode.com/u/Rudyoactiv/)-->
 
-- [![Website](https://img.shields.io/badge/Website-🌐)](https://rudraneel.netlify.app/)
-- [![Email](https://img.shields.io/badge/-Email-blue?logo=mail)](mailto:its.rudraneel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rudraneeldutta%40gmail.com-brightgreen)](mailto:rudraneeldutta@gmail.com)
+[![Website](https://img.shields.io/badge/Website-kraft3d.netlify.app-blue)](https://kraft3d.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraneel%20Dutta-blue)](https://www.linkedin.com/in/its-rudraneel/)
 
 ## 📚 Publications
 
