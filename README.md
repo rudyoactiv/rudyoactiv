@@ -84,7 +84,7 @@ Integration of Stripe for payment processing in a React application, including h
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Rudraneel's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats">
     </td>
     <td>
       <img src="https://leetcard.jacoblin.cool/Rudyoactiv" alt="LeetCode Stats">
