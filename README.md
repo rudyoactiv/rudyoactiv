@@ -37,8 +37,6 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <span style="color: blue;">View Paper</span>
 </td>
 
-
-
   </tr>
 </table>
 
@@ -86,13 +84,11 @@ Integration of Stripe for payment processing in a React application, including h
 
 - Final Year of B.Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology.
 
-
 ## 🧑‍💻 My Stats
 
-| GitHub Stats | LeetCode Stats |
-| ------------ | -------------- |
+| GitHub Stats                                                                                                                                                          | LeetCode Stats                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Rudraneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) | ![LeetCode Stats](https://leetcard.jacoblin.cool/Rudyoactiv) |
-
 
 ## 💬 Let's Connect
 
