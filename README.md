@@ -51,17 +51,9 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 🚀 Projects
 
-<table>
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <h3>[Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)</h3>
-      <p>A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.</p>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <img src="https://example.com/path/to/your/image.jpg" alt="Website Screenshot" style="width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
+### [Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)
+
+A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
 
 ### [Food Item List Component](https://github.com/rudyoactiv/food-item-list)
 
