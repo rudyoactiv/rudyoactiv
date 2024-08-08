@@ -20,7 +20,7 @@ I specialise in **full stack development**, and **Machine Learning** Application
 - **Published in:** Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA
 - **Description:** This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.
 - **[Read the paper](https://doi.org/10.32604/jai.2024.050706)**
-- **Tags:** Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision
+- **Tags:** *Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision*
 
 
 ## 🔧 Technologies & Tools
