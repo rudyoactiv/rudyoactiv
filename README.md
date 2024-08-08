@@ -16,7 +16,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 📚 Publications
 
-<table>
+<table style="width: 100%;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
       <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
@@ -28,18 +28,10 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
       </ul>
     </td>
     <td style="width: auto; vertical-align: top;">
-      <table style="width: 100%; height: 100%;">
-        <tr>
-          <td style="text-align: center;">
-            <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align: center; padding-top: 10px;">
-            <p>View Paper</p>
-          </td>
-        </tr>
-      </table>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
+        <p style="margin-top: 10px;">Some additional text here</p>
+      </div>
     </td>
   </tr>
 </table>
