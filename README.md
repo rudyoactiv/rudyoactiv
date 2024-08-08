@@ -51,9 +51,9 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 🚀 Projects
 
-### [Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)
+### [Full Stack Food Delivery Application](https://kraft3d.netlify.app/)
 
-A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
+A complete end-to-end application built using the MERN stack to accept, process and deliver food items, featuring a robust backend and a solid frontend, with a separate admin panel for ease of use.
 
 ### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
 
