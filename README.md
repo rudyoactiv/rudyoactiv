@@ -1,6 +1,6 @@
 # Hi there, I'm Rudraneel Dutta 👋
 
-![Profile Picture](https://example.com/your-profile-picture.jpg)
+![Profile Picture](https://github.com/rudyoactiv/rudyoactiv/blob/main/header.png)
 
 ## About Me
 I'm a 4th-year Computer Science student from West Bengal, passionate about technology and software development. I'm currently seeking internships and working on various exciting projects.
