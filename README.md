@@ -28,8 +28,8 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
       </ul>
     </td>
     <td style="width: auto; vertical-align: top;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 50px; height: auto; align-self: center">
+      <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
         <p style="margin-top: 10px;">Some additional text here</p>
       </div>
     </td>
