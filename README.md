@@ -69,7 +69,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         </div>
       </div>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="min-width: 50%; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats" style="width: 100%; height: auto;">
     </td>
   </tr>
