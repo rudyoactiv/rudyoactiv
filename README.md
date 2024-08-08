@@ -43,7 +43,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 100%; vertical-align: top;">
             <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
             <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
             <li><strong>Database:</strong> MongoDB, MySQL</li>
