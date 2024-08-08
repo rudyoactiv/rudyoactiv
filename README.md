@@ -3,14 +3,17 @@
 ![Profile Picture](https://github.com/rudyoactiv/rudyoactiv/blob/main/header.png)
 
 ## About Me
+
 I'm a final year CS student and boy do I love writing code. And when I'm not coding, I'm probably busy tinkering with my 3D Printer 🚀.
 I specialise in **Full Stack Development**, and **Machine Learning** Applications, and I just love finding new problems to solve and new projects to build. Make sure to check out my work below!
 
 ## 📫 Get In Touch
+
 <!--- [LinkedIn](https://www.linkedin.com/in/its-rudraneel/)
 - [GitHub](https://github.com/rudyoactiv)
 - [HackerRank](https://www.hackerrank.com/profile/its_rudraneel)
 - [LeetCode](https://leetcode.com/u/Rudyoactiv/)-->
+
 - Check out my [Website](https://rudraneel.netlify.app/)
 - Email: its.rudraneel@example.com
 
@@ -27,7 +30,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
       </ul>
     </td>
 <td style="width: 50%; vertical-align: top; text-align: center;">
-  <a href="https://doi.org/10.32604/jai.2024.050706" style="text-decoration: none; color: inherit; text-decoration: none;" title="Read the open-access paper">
+  <a href="https://doi.org/10.32604/jai.2024.050706" style="text-decoration: none; color: pink;" title="Read the open-access paper">
     <div style="display: inline-block; text-align: center;">
       <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto; display: block; margin: 0 auto;" title="Read the open-access paper">
       <p style="margin-top: 10px;">View Paper</p>
@@ -36,12 +39,9 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 </td>
 
 
+
   </tr>
 </table>
-
-
-
-
 
 ## 🔧 Tools & Technologies
 
@@ -76,25 +76,31 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 </table>
 
 ### [Food Item List Component](https://github.com/rudyoactiv/food-item-list)
+
 A React component that displays a list of food items, including image, name, category, price, and actions to remove items.
 
 ### [Stripe Payment Integration](https://github.com/rudyoactiv/stripe-integration)
+
 Integration of Stripe for payment processing in a React application, including handling the 3D Secure popup.
 
-
 ## 🎓 Education
+
 - Currently pursuing a B.Tech in Computer Science and Engineering.
 
 ## 🏆 Achievements
+
 - Certificate of Recognition from the Director of NIELIT Kohima for outstanding performance during internship.
 
 ## 📝 Blog Posts
+
 - [How to Enhance Exam Preparation Using Topic Modelling](https://link-to-your-blog-post)
 
 ## 🧑‍💻 My GitHub Stats
+
 ![Rudraneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 💬 Let's Connect
+
 Feel free to reach out to me if you have any questions or just want to chat about technology and development.
 
 ---
