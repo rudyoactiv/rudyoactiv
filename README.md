@@ -89,14 +89,9 @@ Integration of Stripe for payment processing in a React application, including h
 
 ## 🧑‍💻 My Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    ![Rudraneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-  </div>
-  <div>
-    ![LeetCode Stats](https://leetcard.jacoblin.cool/Rudyoactiv)
-  </div>
-</div>
+| GitHub Stats | LeetCode Stats |
+| ------------ | -------------- |
+| ![Rudraneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) | ![LeetCode Stats](https://leetcard.jacoblin.cool/Rudyoactiv) |
 
 
 ## 💬 Let's Connect
