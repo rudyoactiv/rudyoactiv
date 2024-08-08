@@ -14,7 +14,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 - [HackerRank](https://www.hackerrank.com/profile/its_rudraneel)
 - [LeetCode](https://leetcode.com/u/Rudyoactiv/)-->
 
-- [![Website](https://img.shields.io/badge/Website-rudraneel.netlify.app-blue)](https://rudraneel.netlify.app/)
+- [![Website](https://img.shields.io/badge/Website-🌐)](https://rudraneel.netlify.app/)
 - [![Email](https://img.shields.io/badge/Email-its.rudraneel@example.com-blue)](mailto:its.rudraneel@example.com)
 
 ## 📚 Publications
