@@ -29,7 +29,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
   <tr>
     <td style="width: 50%; vertical-align: top;">
       <ul>
-        <li><strong>Programming Languages:</strong> Python, JavaScript, C, C++, Java</li>
+        <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
         <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
         <li><strong>Database:</strong> MongoDB, MySQL</li>
         <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
