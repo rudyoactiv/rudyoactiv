@@ -23,11 +23,11 @@ I specialise in **full stack development**, and **Machine Learning** Application
 - **[Read the open-access paper here](https://doi.org/10.32604/jai.2024.050706)**
 
 
-## 🔧 Technologies & Tools
-- Programming Languages: JavaScript, Python, etc.
-- Frameworks: React, Node.js
-- Database: MongoDB
-- Tools: Git, Docker, etc.
+## 🔧 Tools & Technologies
+- Programming Languages: Python, JavaScript, C, C++, Java
+- Frameworks: React, Express.js, Django, TensorFlow, PyTorch, Three.js
+- Database: MongoDB, MySQL 
+- Tools: Git, Docker, Jupyter, Postman
 
 ## 🚀 Projects
 
