@@ -46,7 +46,10 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, Docker, Jupyter, Postman
 
-
+<!-- GitHub Stats Widget -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Rudraneel Dutta's GitHub Stats"/>
+</p>
 
 
 ## 🚀 Projects
