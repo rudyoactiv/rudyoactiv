@@ -57,28 +57,28 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         <div style="padding: 10px;">
           <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
             <!-- Shields for each item -->
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
             </div>
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
             </div>
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
             </div>
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
             </div>
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
             </div>
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
             </div>
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
             </div>
-            <div style="flex: 0 1 20%; text-align: center;">
+            <div style="flex: 1 1 20%; max-width: 20%; text-align: center;">
               <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
             </div>
           </div>
@@ -90,6 +90,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
     </td>
   </tr>
 </table>
+
 
 ## 🚀 Projects
 
