@@ -55,13 +55,13 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
 
-### [Food Item List Component](https://github.com/rudyoactiv/food-item-list)
+### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
 
-A React component that displays a list of food items, including image, name, category, price, and actions to remove items.
+A social platform for students to find other students to mutually swap classes with.
 
-### [Stripe Payment Integration](https://github.com/rudyoactiv/stripe-integration)
+### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
 
-Integration of Stripe for payment processing in a React application, including handling the 3D Secure popup.
+A light-weight laane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
 
 ## 🎓 Education
 
