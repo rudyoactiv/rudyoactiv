@@ -27,7 +27,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         <li><strong><a href="https://doi.org/10.32604/jai.2024.050706" target="_blank">Read the open-access paper here</a></strong></li>
       </ul>
     </td>
-    <td style="width: auto; vertical-align: top;">
+    <td style="width: auto; vertical-align: top; flex-direction: column; align-items: center; text-align: center;">
       <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
         <p style="margin-top: 10px;">Some additional text here</p>
