@@ -24,13 +24,12 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA</li>
         <li><strong>Description:</strong> This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.</li>
         <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
-        <li><strong><a href="https://doi.org/10.32604/jai.2024.050706" target="_blank">Read the open-access paper here</a></strong></li>
       </ul>
     </td>
 <td style="width: 50%; vertical-align: top; text-align: center;">
-  <a href="https://doi.org/10.32604/jai.2024.050706" style="text-decoration: none; color: inherit;" title="View the publication paper">
+  <a href="https://doi.org/10.32604/jai.2024.050706" style="text-decoration: none; color: inherit;" title="Read the open-access paper">
     <div style="display: inline-block; text-align: center;">
-      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto; display: block; margin: 0 auto;" title="Publication Image">
+      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto; display: block; margin: 0 auto;" title="Read the open-access paper">
       <p style="margin-top: 10px;">View Paper</p>
     </div>
   </a>
