@@ -44,7 +44,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="max-width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; height: 100%;">
         <div style="flex: 1;">
           <ul>
