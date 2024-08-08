@@ -51,6 +51,16 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         <li><strong>Database:</strong> MongoDB, MySQL</li>
         <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
       </ul>
+      <p> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>   
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+</p>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats" style="width: 100%; height: auto;">
@@ -97,7 +107,6 @@ Integration of Stripe for payment processing in a React application, including h
     </td>
   </tr>
 </table>
-
 
 ## 💬 Let's Connect
 
