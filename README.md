@@ -45,21 +45,19 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <table style="width: 100%;">
-        <tr>
-          <td>
-            <ul>
-              <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
-              <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
-              <li><strong>Database:</strong> MongoDB, MySQL</li>
-              <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/rudyoactiv" style="text-decoration: none;">My GitHub Profile</a></td>
-        </tr>
-      </table>
+      <div style="display: flex; flex-direction: column; height: 100%;">
+        <div style="flex: 1;">
+          <ul>
+            <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
+            <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
+            <li><strong>Database:</strong> MongoDB, MySQL</li>
+            <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
+          </ul>
+        </div>
+        <div>
+          <a href="https://github.com/rudyoactiv" style="text-decoration: none;">My GitHub Profile</a>
+        </div>
+      </div>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats" style="width: 100%; height: auto;">
