@@ -28,7 +28,11 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
       </ul>
     </td>
     <td style="width: auto; vertical-align: top;">
-      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
+      <tr>
+            <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
+      </tr>
+      <tr>        <li><strong><a href="https://doi.org/10.32604/jai.2024.050706" target="_blank">Read the open-access paper here</a></strong></li>
+      </tr>
     </td>
   </tr>
 </table>
