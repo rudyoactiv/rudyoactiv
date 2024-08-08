@@ -16,11 +16,22 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 📚 Publications
 
-### "Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"
-- **Published in:** Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA
-- **Description:** This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.
-- **Tags:** *Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision*
-- **[Read the open-access paper here](https://doi.org/10.32604/jai.2024.050706)**
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
+      <ul>
+        <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA</li>
+        <li><strong>Description:</strong> This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.</li>
+        <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
+        <li><strong><a href="https://doi.org/10.32604/jai.2024.050706" target="_blank">Read the open-access paper here</a></strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ## 🔧 Tools & Technologies
