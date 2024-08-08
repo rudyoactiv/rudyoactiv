@@ -36,7 +36,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         </tr>
         <tr>
           <td style="text-align: center; padding-top: 10px;">
-            <p>Some additional text here</p>
+            <p>View Paper</p>
           </td>
         </tr>
       </table>
