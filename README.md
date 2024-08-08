@@ -45,7 +45,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; padding: 0;">
-      <div style="display: flex; flex-direction: column; height: 100%;">
+      <div style="width: 100%; display: flex; flex-direction: column; height: 100%;">
         <div style="flex: 1; padding: 10px;">
           <ul style="list-style-type: none; padding: 0;">
             <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
@@ -54,7 +54,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
             <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
           </ul>
         </div>
-        <div style="visibility:hidden">
+        <div style="text-align: center;">
           <!-- Shields for each item -->
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
