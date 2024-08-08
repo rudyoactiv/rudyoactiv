@@ -28,7 +28,6 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <h3>Tools & Technologies</h3>
       <ul>
         <li><strong>Programming Languages:</strong> Python, JavaScript, C, C++, Java</li>
         <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
@@ -41,7 +40,6 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
     </td>
   </tr>
 </table>
-
 
 ## 🚀 Projects
 
