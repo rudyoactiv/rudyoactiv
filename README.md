@@ -15,11 +15,12 @@ I specialise in **full stack development**, and **Machine Learning** Application
 - Email: its.rudraneel@example.com
 
 ## 📚 Publications
-<div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
-  <h3 style="margin: 0; font-size: 16px;">"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
-  <p style="margin: 5px 0; font-size: 14px;">Published in the Journal on Artificial Intelligence.</p>
-  <p style="margin: 5px 0;"><a href="https://link-to-your-paper" target="_blank" style="color: #0366d6; text-decoration: none;">Read the paper</a></p>
-</div>
+
+### "Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"
+- **Published in:** Journal on Artificial Intelligence
+- **Description:** This paper explores advanced techniques in topic modeling to improve exam preparation strategies.
+- **[Read the paper](https://link-to-your-paper)**
+
 
 ## 🔧 Technologies & Tools
 - Programming Languages: JavaScript, Python, etc.
