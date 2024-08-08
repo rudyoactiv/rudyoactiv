@@ -41,18 +41,12 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 🔧 Tools & Technologies
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 100%; vertical-align: top; padding: 0;">
-      <ul style="list-style-type: none; padding: 0; margin: 0;">
-        <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
-        <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
-        <li><strong>Database:</strong> MongoDB, MySQL</li>
-        <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Languages:** Python, JavaScript, C, C++, Java
+- **Frameworks:** React, Express.js, Django, TensorFlow, PyTorch, Three.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, Docker, Jupyter, Postman
+
+
 
 
 ## 🚀 Projects
