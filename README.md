@@ -17,9 +17,9 @@ I specialise in **full stack development**, and **Machine Learning** Application
 ## 📚 Publications
 
 ### "Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"
-- **Published in:** Journal on Artificial Intelligence
-- **Description:** This paper explores advanced techniques in topic modeling to improve exam preparation strategies.
-- **[Read the paper](https://link-to-your-paper)**
+- **Published in:** Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA
+- **Description:** This paper explores the use of machine learning techniques in helping students' academic preparation by using previous year trends to predict question paper patterns.
+- **[Read the paper](https://doi.org/10.32604/jai.2024.050706)**
 
 
 ## 🔧 Technologies & Tools
