@@ -4,7 +4,7 @@
 
 ## About Me
 I'm a final year CS student and boy do I love writing code. And when I'm not coding, I'm probably busy tinkering with my 3D Printer 🚀.
-I specialise in **full stack development**, and **Machine Learning** Applications, and I simply love finding new problems to solve and new projects to build. Make sure to check out my work below!
+I specialise in **Full Stack Development**, and **Machine Learning** Applications, and I just love finding new problems to solve and new projects to build. Make sure to check out my work below!
 
 ## 📫 Get In Touch
 <!--- [LinkedIn](https://www.linkedin.com/in/its-rudraneel/)
@@ -31,8 +31,17 @@ I specialise in **full stack development**, and **Machine Learning** Application
 
 ## 🚀 Projects
 
-### [Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)
-A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <h3>[Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)</h3>
+      <p>A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.</p>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://example.com/path/to/your/image.jpg" alt="Website Screenshot" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
 
 ### [Food Item List Component](https://github.com/rudyoactiv/food-item-list)
 A React component that displays a list of food items, including image, name, category, price, and actions to remove items.
