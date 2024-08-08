@@ -42,19 +42,19 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 🔧 Tools & Technologies
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="max-width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top; padding: 0;">
       <div style="display: flex; flex-direction: column; height: 100%;">
-        <div style="flex: 1;">
-          <ul>
+        <div style="flex: 1; padding: 10px;">
+          <ul style="list-style-type: none; padding: 0;">
             <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
             <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
             <li><strong>Database:</strong> MongoDB, MySQL</li>
             <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
           </ul>
         </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
           <!-- Shields for each item -->
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
@@ -63,17 +63,15 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
         </div>
       </div>
     </td>
-    <td style="min-width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats" style="width: 100%; height: auto;">
     </td>
   </tr>
 </table>
+
 
 
 ## 🚀 Projects
