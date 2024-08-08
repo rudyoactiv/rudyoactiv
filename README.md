@@ -28,10 +28,22 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
       </ul>
     </td>
     <td style="width: auto; vertical-align: top;">
-      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
+      <table style="width: 100%; height: 100%;">
+        <tr>
+          <td style="text-align: center;">
+            <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 10px;">
+            <p>Some additional text here</p>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 
 
