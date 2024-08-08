@@ -34,7 +34,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
   <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
 </a>
 <br>
-<span>View Paper</span>
+<span style="color: blue;">View Paper</span>
 </td>
 
 
