@@ -18,9 +18,6 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 <table>
   <tr>
-    <td style="width: auto; vertical-align: top;">
-      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
-    </td>
     <td style="width: 50%; vertical-align: top;">
       <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
       <ul>
@@ -29,6 +26,9 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
         <li><strong><a href="https://doi.org/10.32604/jai.2024.050706" target="_blank">Read the open-access paper here</a></strong></li>
       </ul>
+    </td>
+    <td style="width: auto; vertical-align: top;">
+      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
     </td>
   </tr>
 </table>
