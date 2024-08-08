@@ -45,7 +45,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; padding: 0;">
-      <div style="width: 100%; display: flex; flex-direction: column; height: 100%;">
+      <div style="display: flex; flex-direction: column; height: 100%;">
         <div style="flex: 1; padding: 10px;">
           <ul style="list-style-type: none; padding: 0;">
             <li><strong>Languages:</strong> Python, JavaScript, C, C++, Java</li>
@@ -54,17 +54,32 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
             <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
           </ul>
         </div>
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-</div>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="width: 100%;">
+          </div>
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="width: 100%;">
+          </div>
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" style="width: 100%;">
+          </div>
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 100%;">
+          </div>
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="width: 100%;">
+          </div>
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 100%;">
+          </div>
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="width: 100%;">
+          </div>
+          <div style="flex: 0 0 150px; text-align: center; margin: 5px;">
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="width: 100%;">
+          </div>
+        </div>
       </div>
     </td>
     <td style="width: 50%; vertical-align: top; padding: 0;">
@@ -72,6 +87,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
     </td>
   </tr>
 </table>
+
 
 ## 🚀 Projects
 
