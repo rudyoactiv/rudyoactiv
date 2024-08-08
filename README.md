@@ -19,7 +19,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100%; height: auto;">
+      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 50px; height: auto;">
     </td>
     <td style="width: 50%; vertical-align: top;">
       <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
@@ -32,6 +32,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
     </td>
   </tr>
 </table>
+
 
 
 ## 🔧 Tools & Technologies
