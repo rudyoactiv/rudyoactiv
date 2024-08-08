@@ -82,17 +82,18 @@ Integration of Stripe for payment processing in a React application, including h
 
 ## 🎓 Education
 
-- Final Year of B.Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology.
+- Bachelor of Technology in Computer Science and Engineering at Kalinga Institute of Industrial Technology
+- La Martiniere Calcutta, ISC 2021
 
 ## 🧑‍💻 My Stats
 
-<table style="width:100%; border:none;">
+<table>
   <tr>
-    <td style="width:50%; padding:0; border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Rudraneel's GitHub Stats" style="width:100%; height:auto;">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Rudraneel's GitHub Stats">
     </td>
-    <td style="width:50%; padding:0; border:none;">
-      <img src="https://leetcard.jacoblin.cool/Rudyoactiv" alt="LeetCode Stats" style="width:100%; height:auto;">
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Rudyoactiv" alt="LeetCode Stats">
     </td>
   </tr>
 </table>
