@@ -10,7 +10,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 ## 📫 Get In Touch
 
 - [![Website](https://img.shields.io/badge/Website-🌐)](https://rudraneel.netlify.app/)
-- [![Email](https://img.shields.io/badge/-Email-blue?logo=mail)](mailto:its.rudraneel@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-its.rudraneel@gmail.com-brightgreen)](mailto:its.rudraneel@gmail.com)
 
 ## 📚 Publications
 
