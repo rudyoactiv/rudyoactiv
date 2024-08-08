@@ -30,12 +30,11 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
       </ul>
     </td>
 <td style="width: 50%; vertical-align: top; text-align: center;">
-  <a href="https://doi.org/10.32604/jai.2024.050706" style="text-decoration: none; color: pink;" title="Read the open-access paper">
-    <div style="display: inline-block; text-align: center;">
-      <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto; display: block; margin: 0 auto;" title="Read the open-access paper">
-      <p style="margin-top: 10px;">View Paper</p>
-    </div>
-  </a>
+<a href="https://doi.org/10.32604/jai.2024.050706">
+  <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
+</a>
+<br>
+<span>View Paper</span>
 </td>
 
 
