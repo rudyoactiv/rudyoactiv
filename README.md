@@ -24,10 +24,24 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 
 ## 🔧 Tools & Technologies
-- Programming Languages: Python, JavaScript, C, C++, Java
-- Frameworks: React, Express.js, Django, TensorFlow, PyTorch, Three.js
-- Database: MongoDB, MySQL 
-- Tools: Git, Docker, Jupyter, Postman
+
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <h3>Tools & Technologies</h3>
+      <ul>
+        <li><strong>Programming Languages:</strong> Python, JavaScript, C, C++, Java</li>
+        <li><strong>Frameworks:</strong> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
+        <li><strong>Database:</strong> MongoDB, MySQL</li>
+        <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=compact" alt="GitHub Language Stats" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Projects
 
