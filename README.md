@@ -22,11 +22,9 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <h2>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h2>
-      <h3>
-      Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA      
-      </h3>
+      <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
       <ul>
+        <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA</li>
         <li><strong>Description:</strong> This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.</li>
         <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
       </ul>
