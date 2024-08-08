@@ -14,6 +14,9 @@ I specialise in **full stack development**, and **Machine Learning** Application
 - Check out my [Website](https://rudraneel.netlify.app/)
 - Email: its.rudraneel@example.com
 
+## 📚 Publications
+- **"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"** - Published in the Journal on Artificial Intelligence.
+
 ## 🔧 Technologies & Tools
 - Programming Languages: JavaScript, Python, etc.
 - Frameworks: React, Node.js
@@ -31,8 +34,6 @@ A React component that displays a list of food items, including image, name, cat
 ### [Stripe Payment Integration](https://github.com/rudyoactiv/stripe-integration)
 Integration of Stripe for payment processing in a React application, including handling the 3D Secure popup.
 
-## 📚 Publications
-- **"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"** - Published in the Journal on Artificial Intelligence.
 
 ## 🎓 Education
 - Currently pursuing a B.Tech in Computer Science and Engineering.
