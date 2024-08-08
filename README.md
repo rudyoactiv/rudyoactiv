@@ -54,7 +54,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
             <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
           </ul>
         </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; justify-content: center;">
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; justify-content: center; text-align: center;">
           <!-- Shields for each item -->
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
