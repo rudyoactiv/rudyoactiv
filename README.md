@@ -11,6 +11,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 - [![Website](https://img.shields.io/badge/Website-🌐)](https://rudraneel.netlify.app/)
 - [![Email](https://img.shields.io/badge/Email-its.rudraneel@gmail.com-brightgreen)](mailto:its.rudraneel@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraneel%20Dutta-blue)](https://www.linkedin.com/in/its-rudraneel/)
 
 ## 📚 Publications
 
