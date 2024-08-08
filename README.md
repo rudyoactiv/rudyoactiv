@@ -24,7 +24,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
     <td style="width: 50%; vertical-align: top;">
       <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
       <ul>
-        <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, 89052, USA</li>
+        <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, USA</li>
         <li><strong>Description:</strong> This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.</li>
         <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
       </ul>
@@ -84,24 +84,21 @@ Integration of Stripe for payment processing in a React application, including h
 
 ## 🎓 Education
 
-- Currently pursuing a B.Tech in Computer Science and Engineering.
+- Final Year of B.Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology.
 
-## 🏆 Achievements
 
-- Certificate of Recognition from the Director of NIELIT Kohima for outstanding performance during internship.
+## 🧑‍💻 My Stats
 
-## 📝 Blog Posts
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    ![Rudraneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+  </div>
+  <div>
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/Rudyoactiv)
+  </div>
+</div>
 
-- [How to Enhance Exam Preparation Using Topic Modelling](https://link-to-your-blog-post)
-
-## 🧑‍💻 My GitHub Stats
-
-![Rudraneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 💬 Let's Connect
 
 Feel free to reach out to me if you have any questions or just want to chat about technology and development.
-
----
-
-Thank you for visiting my profile!
