@@ -27,14 +27,15 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
         <li><strong><a href="https://doi.org/10.32604/jai.2024.050706" target="_blank">Read the open-access paper here</a></strong></li>
       </ul>
     </td>
-    <td style="width: auto; vertical-align: top; flex-direction: column; align-items: center; text-align: center;">
+    <td style="width: 50%; vertical-align: top; text-align: center;">
       <div>
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto; display: block; margin: 0 auto;">
         <p style="margin-top: 10px;">Some additional text here</p>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 
