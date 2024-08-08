@@ -3,14 +3,16 @@
 ![Profile Picture](https://github.com/rudyoactiv/rudyoactiv/blob/main/header.png)
 
 ## About Me
-I'm a final year CS student and boy do I love writing code. And when I'm not coding, I'm probably busy tinkering with my 3D Printer 🚀. I specialise in **full stack development**, and **Machine Learning** Applications, and I simply love thinking of new problems to solve and new projects to build. Make sure to check out my work below!
+I'm a final year CS student and boy do I love writing code. And when I'm not coding, I'm probably busy tinkering with my 3D Printer 🚀.
+I specialise in **full stack development**, and **Machine Learning** Applications, and I simply love finding new problems to solve and new projects to build. Make sure to check out my work below!
 
-## 📫 Contact Me
+## 📫 Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/its-rudraneel/)
 - [GitHub](https://github.com/rudyoactiv)
 - [HackerRank](https://www.hackerrank.com/profile/its_rudraneel)
 - [LeetCode](https://leetcode.com/u/Rudyoactiv/)
-- Email: your.email@example.com
+- [Website](https://rudraneel.netlify.app/)
+- Email: its.rudraneel@example.com
 
 ## 🔧 Technologies & Tools
 - Programming Languages: JavaScript, Python, etc.
