@@ -18,7 +18,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50px; vertical-align: top;">
       <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 50px; height: auto;">
     </td>
     <td style="width: 50%; vertical-align: top;">
