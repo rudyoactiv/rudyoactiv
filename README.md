@@ -41,9 +41,9 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 🔧 Tools & Technologies
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;">
   <tr>
-    <td style="padding: 0;">
+    <td style="padding: 0; width: 100%;">
       <div style="display: flex; flex-direction: column; height: 100%;">
         <div style="flex: 1; padding: 10px;">
           <ul style="list-style-type: none; padding: 0;">
@@ -68,7 +68,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
     </td>
   </tr>
   <tr>
-    <td style="padding: 0;">
+    <td style="padding: 0; width: 100%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats" style="width: 100%; height: auto;">
     </td>
   </tr>
