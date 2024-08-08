@@ -39,27 +39,6 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
   </tr>
 </table>
 
-## 🔧 Tools & Technologies
-
-<table style="width: 100%;">
-  <tr>
-<td style="width: 50%; vertical-align: top; text-align: center;">
-<a href="https://doi.org/10.32604/jai.2024.050706">
-  <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
-</a>
-<br>
-<span style="color: blue;">View Paper</span>
-</td>
-    <td style="width: 50%; vertical-align: top;">
-      <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
-      <ul>
-        <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, USA</li>
-        <li><strong>Description:</strong> This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.</li>
-        <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## 🔧 Tools & Technologies
 
@@ -75,17 +54,34 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
             <li><strong>Tools:</strong> Git, Docker, Jupyter, Postman</li>
           </ul>
         </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; justify-content: center;">
-          <!-- Shields for each item -->
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-          <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-          <br>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+        <div style="padding: 10px;">
+          <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+            <!-- Shields for each item -->
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+            </div>
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+            </div>
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+            </div>
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+            </div>
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+            </div>
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+            </div>
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+            </div>
+            <div style="flex: 0 1 20%; text-align: center;">
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+            </div>
+          </div>
         </div>
       </div>
     </td>
