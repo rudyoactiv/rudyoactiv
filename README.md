@@ -3,7 +3,7 @@
 ![Profile Picture](https://github.com/rudyoactiv/rudyoactiv/blob/main/header.png)
 
 ## About Me
-I'm a 4th-year Computer Science student from West Bengal, passionate about technology and software development. I'm currently seeking internships and working on various exciting projects.
+I'm a final year CS student and boy do I love writing code. And when I'm not coding, I'm probably busy tinkering with my 3D Printer. I specialise in full stack development, and Machine Learning Applications, and I simply love thinking of news problems to solve and new projects to build. Make sure to check out my work below!
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/its-rudraneel/)
