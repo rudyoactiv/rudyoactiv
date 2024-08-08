@@ -7,11 +7,11 @@ I'm a final year CS student and boy do I love writing code. And when I'm not cod
 I specialise in **full stack development**, and **Machine Learning** Applications, and I simply love finding new problems to solve and new projects to build. Make sure to check out my work below!
 
 ## 📫 Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/its-rudraneel/)
+<!--- [LinkedIn](https://www.linkedin.com/in/its-rudraneel/)
 - [GitHub](https://github.com/rudyoactiv)
 - [HackerRank](https://www.hackerrank.com/profile/its_rudraneel)
-- [LeetCode](https://leetcode.com/u/Rudyoactiv/)
-- [Website](https://rudraneel.netlify.app/)
+- [LeetCode](https://leetcode.com/u/Rudyoactiv/)-->
+- Check out my [Website](https://rudraneel.netlify.app/)
 - Email: its.rudraneel@example.com
 
 ## 🔧 Technologies & Tools
