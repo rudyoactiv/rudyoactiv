@@ -57,11 +57,11 @@ I built Kraft3D to share my love for 3D printing with the community. The e-comme
 
 ### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
 
-A social platform for students to find other students to mutually swap classes with.
+A social platform for students to find other students to mutually swap classes with. Just Sign in with your college ID, enter your desired class and find your perfect match! Data is automatically reset at the start of every semester.
 
 ### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
 
-A light-weight laane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
+A light-weight lane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions. This was built as a minor project for my 6th Semester.
 
 ## 🎓 Education
 
