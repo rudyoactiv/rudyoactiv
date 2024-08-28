@@ -53,7 +53,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ### [Kraft3D: India's Most Affordable 3D Printing Store](https://kraft3d.netlify.app/)
 
-A complete end-to-end application built using the MERN stack to accept, process and deliver food items, featuring a robust backend and a solid frontend, with a separate admin panel for ease of use.
+I built Kraft3D to share my love for 3D printing with the community. The e-commerce platform was built completely from scratch by me. Make sure to check out my workshops and all the cool stuff for sale on the Kraft3D store!
 
 ### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
 
