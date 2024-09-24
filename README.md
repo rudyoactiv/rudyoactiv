@@ -11,43 +11,44 @@ Make sure to check out my work below!
 ## 📫 Get In Touch
 
 <table style="width: 100%;">
-  <tr align="center">
-    <td>
+  <tr>
+    <td align="left">
       <a href="https://rudraneel.netlify.app/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="width:50px">
       </a>
     </td>
-    <td>
+    <td align="left">
       <a href="https://rudraneel.netlify.app/">My Website</a>
     </td>
-    <td>
+    <td align="left">
       <a href="mailto:its.rudraneel@gmail.com">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:50px">
       </a>
     </td>
-    <td>
+    <td align="left">
       <a href="mailto:its.rudraneel@gmail.com">Email</a>
     </td>
   </tr>
-  <tr align="center">
-    <td>
+  <tr>
+    <td align="left">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
       </a>
     </td>
-    <td>
+    <td align="left">
       <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
     </td>
-    <td>
+    <td align="left">
       <a href="https://www.instagram.com/kraft3d_byrudy/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width:50px">
       </a>
     </td>
-    <td>
+    <td align="left">
       <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
   </tr>
 </table>
+
 
 
 ## 📚 Publications
