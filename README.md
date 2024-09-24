@@ -14,20 +14,37 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 - [![Instagram](https://img.shields.io/badge/Instagram-kraft3d_byrudy-orange)](https://www.instagram.com/kraft3d_byrudy/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraneel%20Dutta-blue)](https://www.linkedin.com/in/its-rudraneel/)
 
-<p align="center">
-  <a href="https://rudraneel.netlify.app/">
-    <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" height="50">
-  </a>
-  <a href="mailto:its.rudraneel@gmail.com">
-    <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" width="50" height="50">
-  </a>
-  <a href="https://www.linkedin.com/in/its-rudraneel/">
-    <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/kraft3d_byrudy/">
-    <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" height="50">
-  </a>
-</p>
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://rudraneel.netlify.app/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:its.rudraneel@gmail.com">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" height="50">
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>Website</td>
+    <td>Email</td>
+    <td>LinkedIn</td>
+    <td>Instagram</td>
+  </tr>
+</table>
+
 
 ## 📚 Publications
 
