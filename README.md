@@ -15,9 +15,28 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraneel%20Dutta-blue)](https://www.linkedin.com/in/its-rudraneel/)
 
 <table>
-  <td>
-    <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg"
-  </td>
+  <tr>
+    <td>
+      <a href="https://rudraneel.netlify.app/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:its.rudraneel@gmail.com">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 📚 Publications
