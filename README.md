@@ -14,7 +14,7 @@ Make sure to check out my work below!
   <tr align="center">
     <td>
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Website" style="width:50px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="width:50px">
       </a>
     </td>
     <td>
@@ -31,20 +31,20 @@ Make sure to check out my work below!
   </tr>
   <tr align="center">
     <td>
-      <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Website" style="width:50px">
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/LinkedIn.svg" alt="LinkedIn" style="width:50px">
       </a>
     </td>
     <td>
-      <a href="https://rudraneel.netlify.app/">Website</a>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
     </td>
     <td>
-      <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:50px">
+      <a href="https://www.instagram.com/kraft3d_byrudy/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width:50px">
       </a>
     </td>
     <td>
-      <a href="mailto:its.rudraneel@gmail.com">Email</a>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
   </tr>
 </table>
