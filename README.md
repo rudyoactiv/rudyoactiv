@@ -11,46 +11,47 @@ Make sure to check out my work below!
 
 ## 📫 Get In Touch
 <p align="center">
-Hello
-  <table style="width: 100%;">
-    <tr align="center">
-      <td style="width: 25%;">
+  Hello
+  <table style="margin: auto; width: 100%;">
+    <tr>
+      <td style="width: 25%; text-align: center;">
         <a href="https://rudraneel.netlify.app/">
           <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="width: 100px;">
         </a>
       </td>
-      <td style="width: 25%;">
+      <td style="width: 25%; text-align: center;">
         <a href="mailto:its.rudraneel@gmail.com">
           <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width: 100px;">
         </a>
       </td>
-      <td style="width: 25%;">
+      <td style="width: 25%; text-align: center;">
         <a href="https://www.instagram.com/kraft3d_byrudy/">
           <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width: 100px;">
         </a>
       </td>
-      <td style="width: 25%;">
+      <td style="width: 25%; text-align: center;">
         <a href="https://www.linkedin.com/in/its-rudraneel/">
           <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width: 100px;">
         </a>
       </td>
     </tr>
-    <tr align="center">
-      <td>
+    <tr>
+      <td style="text-align: center;">
         <a href="https://rudraneel.netlify.app/">Website</a>
       </td>
-      <td>
+      <td style="text-align: center;">
         <a href="mailto:its.rudraneel@gmail.com">Email</a>
       </td>
-      <td>
+      <td style="text-align: center;">
         <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
       </td>
-      <td>
+      <td style="text-align: center;">
         <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
       </td>
     </tr>
   </table>
-  </p>
+</p>
+
 
 ## 📚 Publications
 
