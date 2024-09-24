@@ -14,7 +14,7 @@ Make sure to check out my work below!
   <tr align="center">
     <td>
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Website">
       </a>
     </td>
     <td>
