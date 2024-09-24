@@ -28,7 +28,7 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
     </td>
     <td>
       <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram">
       </a>
     </td>
     <td>
