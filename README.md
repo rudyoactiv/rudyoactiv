@@ -4,8 +4,7 @@
 
 ## About Me
 
-I'm a final year CS student and boy do I love writing code. And when I'm not coding, I'm probably busy tinkering with my 3D Printer 🚀.
-I build **Full Stack Websites**, work on **Machine Learning**, and I just love finding new problems to solve and projects to build.
+I'm a final year CS student and I love building stuff. So, when I'm not coding, I'm probably busy tinkering with my 3D Printer 🚀. I build **Full Stack Websites**, work on **Machine Learning**, and I just love finding new problems to solve and projects to build.
 
 Make sure to check out my work below!
 
