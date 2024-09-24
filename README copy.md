@@ -9,36 +9,10 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 📫 Get In Touch
 
-
-<p align="center">
-  <a href="https://rudraneel.netlify.app/" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid black; border-radius: 10px;">
-      <img src="path/to/website.jpg" alt="Website" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">Rudraneel's Portfolio</p>
-    </div>
-  </a>
-  
-  <a href="mailto:its.rudraneel@gmail.com" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid green; border-radius: 10px;">
-      <img src="path/to/email.jpg" alt="Email" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">Email</p>
-    </div>
-  </a>
-  
-  <a href="https://www.instagram.com/kraft3d_byrudy/" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid orange; border-radius: 10px;">
-      <img src="path/to/instagram.jpg" alt="Instagram" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">Instagram</p>
-    </div>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/its-rudraneel/" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid blue; border-radius: 10px;">
-      <img src="path/to/linkedin.jpg" alt="LinkedIn" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">LinkedIn</p>
-    </div>
-  </a>
-</p>
+- [![Website](https://img.shields.io/badge/Website-Rudraneel's%20Portfolio-black)](https://rudraneel.netlify.app/)
+- [![Email](https://img.shields.io/badge/Email-its.rudraneel@gmail.com-brightgreen)](mailto:its.rudraneel@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-kraft3d_byrudy-orange)](https://www.instagram.com/kraft3d_byrudy/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraneel%20Dutta-blue)](https://www.linkedin.com/in/its-rudraneel/)
 
 ## 📚 Publications
 
