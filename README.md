@@ -43,7 +43,7 @@ Make sure to check out my work below!
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width:50px">
       </a>
     </td>
-    <td align="left" width="500px">
+    <td align="left" width="100%">
       <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
   </tr>
