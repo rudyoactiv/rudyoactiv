@@ -20,17 +20,17 @@ Make sure to check out my work below!
     </td>
     <td style="width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width: 100px;">
       </a>
     </td>
     <td style="width: 25%;">
       <a href="https://www.instagram.com/kraft3d_byrudy/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width: 100px;">
       </a>
     </td>
     <td style="width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width: 100px;">
       </a>
     </td>
   </tr>
