@@ -14,7 +14,7 @@ Make sure to check out my work below!
   <tr align="center">
     <td>
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Website" style="width:100px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Website" style="width:50px">
       </a>
     </td>
     <td>
@@ -22,7 +22,7 @@ Make sure to check out my work below!
     </td>
     <td>
       <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:100px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:50px">
       </a>
     </td>
     <td>
@@ -32,7 +32,7 @@ Make sure to check out my work below!
   <tr align="center">
     <td>
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Website" style="width:100px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Website" style="width:50px">
       </a>
     </td>
     <td>
@@ -40,7 +40,7 @@ Make sure to check out my work below!
     </td>
     <td>
       <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:100px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:50px">
       </a>
     </td>
     <td>
