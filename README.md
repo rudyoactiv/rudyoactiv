@@ -77,17 +77,17 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 🚀 Projects
 
-### [Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)
+### [Kraft3D: India's Most Affordable 3D Printing Store](https://kraft3d.netlify.app/)
 
-A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
+I built Kraft3D to share my love for 3D printing with the community. The e-commerce platform was built completely from scratch by me. Make sure to check out my workshops and all the cool stuff for sale on the Kraft3D store!
 
 ### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
 
-A social platform for students to find other students to mutually swap classes with.
+A social platform for students to find other students to mutually swap classes with. Just Sign in with your college ID, enter your desired class and find your perfect match! Data is automatically reset at the start of every semester.
 
 ### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
 
-A light-weight laane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
+A light-weight lane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions. This was built as a minor project for my 6th Semester.
 
 ## 🎓 Education
 
