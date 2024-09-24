@@ -9,36 +9,10 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 📫 Get In Touch
 
-
-<p align="center">
-  <a href="https://rudraneel.netlify.app/" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid black; border-radius: 10px;">
-      <img src="path/to/website.jpg" alt="Website" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">Rudraneel's Portfolio</p>
-    </div>
-  </a>
-  
-  <a href="mailto:its.rudraneel@gmail.com" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid green; border-radius: 10px;">
-      <img src="path/to/email.jpg" alt="Email" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">Email</p>
-    </div>
-  </a>
-  
-  <a href="https://www.instagram.com/kraft3d_byrudy/" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid orange; border-radius: 10px;">
-      <img src="path/to/instagram.jpg" alt="Instagram" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">Instagram</p>
-    </div>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/its-rudraneel/" style="text-decoration: none;">
-    <div style="width: 200px; height: 200px; display: inline-block; margin: 10px; text-align: center; border: 2px solid blue; border-radius: 10px;">
-      <img src="path/to/linkedin.jpg" alt="LinkedIn" style="width: 100%; height: 60%; object-fit: cover;"/>
-      <p style="font-size: 18px; font-weight: bold;">LinkedIn</p>
-    </div>
-  </a>
-</p>
+- [![Website](https://img.shields.io/badge/Website-Rudraneel's%20Portfolio-black)](https://rudraneel.netlify.app/)
+- [![Email](https://img.shields.io/badge/Email-its.rudraneel@gmail.com-brightgreen)](mailto:its.rudraneel@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-kraft3d_byrudy-orange)](https://www.instagram.com/kraft3d_byrudy/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraneel%20Dutta-blue)](https://www.linkedin.com/in/its-rudraneel/)
 
 ## 📚 Publications
 
@@ -77,17 +51,17 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 🚀 Projects
 
-### [Kraft3D: India's Most Affordable 3D Printing Store](https://kraft3d.netlify.app/)
+### [Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)
 
-I built Kraft3D to share my love for 3D printing with the community. The e-commerce platform was built completely from scratch by me. Make sure to check out my workshops and all the cool stuff for sale on the Kraft3D store!
+A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
 
 ### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
 
-A social platform for students to find other students to mutually swap classes with. Just Sign in with your college ID, enter your desired class and find your perfect match! Data is automatically reset at the start of every semester.
+A social platform for students to find other students to mutually swap classes with.
 
 ### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
 
-A light-weight lane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions. This was built as a minor project for my 6th Semester.
+A light-weight laane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
 
 ## 🎓 Education
 
