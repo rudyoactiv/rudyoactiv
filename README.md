@@ -18,22 +18,18 @@ Make sure to check out my work below!
       </a>
     </td>
     <td>
-      <a href="https://rudraneel.netlify.app/">
-        Website
-      </a>
+      <a href="https://rudraneel.netlify.app/">Website</a>
     </td>
     <td>
       <a href="mailto:its.rudraneel@gmail.com">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email">
       </a>
     </td>
-        <td>
-      <a href="mailto:its.rudraneel@gmail.com">
-        Email
-      </a>
+    <td>
+      <a href="mailto:its.rudraneel@gmail.com">Email</a>
     </td>
-      </tr>
-      <tr>
+  </tr>
+  <tr align="center">
     <td>
       <a href="https://www.instagram.com/kraft3d_byrudy/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram">
@@ -48,6 +44,7 @@ Make sure to check out my work below!
     </td>
   </tr>
 </table>
+
 
 ## 📚 Publications
 
