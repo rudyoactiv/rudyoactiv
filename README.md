@@ -27,21 +27,37 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" height="50">
-      </a>
-    </td>
-    <td>
       <a href="https://www.instagram.com/kraft3d_byrudy/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" height="50">
       </a>
     </td>
+    <td>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" height="50">
+      </a>
+    </td>
   </tr>
   <tr align="center">
-    <td>Website</td>
-    <td>Email</td>
-    <td>LinkedIn</td>
-    <td>Instagram</td>
+    <td>
+      <a href="https://rudraneel.netlify.app/">
+      Website
+      </a>
+    </td>
+    <td>
+      <a href="mailto:its.rudraneel@gmail.com">
+      Email
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">
+      Instagram
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+      LinkedIn
+      </a>
+    </td>
   </tr>
 </table>
 
