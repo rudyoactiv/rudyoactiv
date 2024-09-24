@@ -68,7 +68,7 @@ A light-weight laane and Vehicle Detection Model developed in Python and fine-tu
 - Bachelor of Technology in Computer Science and Engineering at Kalinga Institute of Industrial Technology
 - La Martiniere Calcutta, ISC 2021
 
-## 🧑‍💻 My Stats
+## 💻 My Stats
 
 <table>
   <tr>
