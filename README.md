@@ -32,7 +32,7 @@ Make sure to check out my work below!
   <tr align="center">
     <td>
       <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/LinkedIn.svg" alt="LinkedIn" style="width:50px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
       </a>
     </td>
     <td>
