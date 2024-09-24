@@ -15,7 +15,7 @@ Make sure to check out my work below!
   <tr align="center">
     <td style="width: 25%;">
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">
+        
       </a>
     </td>
     <td style="width: 25%;">
@@ -36,7 +36,7 @@ Make sure to check out my work below!
   </tr>
   <tr align="center">
     <td>
-      <a href="https://rudraneel.netlify.app/">Website</a>
+      <a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">Website</a>
     </td>
     <td>
       <a href="mailto:its.rudraneel@gmail.com">Email</a>
