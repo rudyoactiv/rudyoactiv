@@ -9,39 +9,52 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 📫 Get In Touch
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 25%; text-align: center;">
+<table>
+  <tr align="center">
+    <td>
       <a href="https://rudraneel.netlify.app/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" height="50">
       </a>
-      <br>
-      <a href="https://rudraneel.netlify.app/">Website</a>
     </td>
-    <td style="width: 25%; text-align: center;">
+    <td>
       <a href="mailto:its.rudraneel@gmail.com">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" width="50" height="50">
       </a>
-      <br>
-      <a href="mailto:its.rudraneel@gmail.com">Email</a>
     </td>
-    <td style="width: 25%; text-align: center;">
+    <td>
       <a href="https://www.instagram.com/kraft3d_byrudy/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" height="50">
       </a>
-      <br>
-      <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
-    <td style="width: 25%; text-align: center;">
+    <td>
       <a href="https://www.linkedin.com/in/its-rudraneel/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" height="50">
       </a>
-      <br>
-      <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://rudraneel.netlify.app/">
+      Website
+      </a>
+    </td>
+    <td>
+      <a href="mailto:its.rudraneel@gmail.com">
+      Email
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">
+      Instagram
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+      LinkedIn
+      </a>
     </td>
   </tr>
 </table>
-
 
 ## 📚 Publications
 
