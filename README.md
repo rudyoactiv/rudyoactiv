@@ -30,14 +30,14 @@ Make sure to check out my work below!
     </td>
   </tr>
   <tr align="center">
-    <a href="https://www.linkedin.com/in/its-rudraneel/">
-      <td>
-          <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
-      </td>
-      <td>
-          LinkedIn
-      </td>
-    </a>
+    <td>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
+    </td>
     <td>
       <a href="https://www.instagram.com/kraft3d_byrudy/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width:50px">
