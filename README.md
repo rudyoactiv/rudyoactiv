@@ -5,7 +5,9 @@
 ## About Me
 
 I'm a final year CS student and boy do I love writing code. And when I'm not coding, I'm probably busy tinkering with my 3D Printer 🚀.
-I specialise in **Full Stack Development**, and **Machine Learning** Applications, and I just love finding new problems to solve and new projects to build. Make sure to check out my work below!
+I build **Full Stack Websites**, work on **Machine Learning**, and I just love finding new problems to solve and projects to build.
+
+Make sure to check out my work below!
 
 ## 📫 Get In Touch
 
