@@ -19,6 +19,8 @@ Make sure to check out my work below!
       <a href="mailto:its.rudraneel@gmail.com">        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email">
 Email</a>
     </td>
+      </tr>
+      <tr>
     <td>
       <a href="https://www.instagram.com/kraft3d_byrudy/">        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram">
 Instagram</a>
