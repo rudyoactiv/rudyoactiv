@@ -9,49 +9,41 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 
 ## 📫 Get In Touch
 
-<table>
+<table style="width: 100%;">
   <tr align="center">
-    <td>
+    <td style="width: 25%;">
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" height="50">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="width: 100%;">
       </a>
     </td>
-    <td>
+    <td style="width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" width="50" height="50">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width: 100%;">
       </a>
     </td>
-    <td>
+    <td style="width: 25%;">
       <a href="https://www.instagram.com/kraft3d_byrudy/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" height="50">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width: 100%;">
       </a>
     </td>
-    <td>
+    <td style="width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" height="50">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width: 100%;">
       </a>
     </td>
   </tr>
   <tr align="center">
     <td>
-      <a href="https://rudraneel.netlify.app/">
-      Website
-      </a>
+      <a href="https://rudraneel.netlify.app/">Website</a>
     </td>
     <td>
-      <a href="mailto:its.rudraneel@gmail.com">
-      Email
-      </a>
+      <a href="mailto:its.rudraneel@gmail.com">Email</a>
     </td>
     <td>
-      <a href="https://www.instagram.com/kraft3d_byrudy/">
-      Instagram
-      </a>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/its-rudraneel/">
-      LinkedIn
-      </a>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
     </td>
   </tr>
 </table>
