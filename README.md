@@ -56,7 +56,6 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
   </tr>
 </table>
 
-
 ## 📚 Publications
 
 <table style="width: 100%;">
@@ -74,7 +73,9 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
   <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/viewdoc.jpg" alt="Publication Image" style="width: 100px; height: auto;">
 </a>
 <br>
-<span style="color: blue;">View Paper</span>
+<a href="https://doi.org/10.32604/jai.2024.050706">
+  <span style="color: blue;">View Paper</span>
+</a>
 </td>
   </tr>
 </table>
