@@ -15,7 +15,7 @@ Make sure to check out my work below!
   <tr align="center">
     <td style="width: 25%;">
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="max-width: 200px;">>
       </a>
     </td>
     <td style="width: 25%;">
