@@ -18,7 +18,7 @@ Make sure to check out my work below!
       </a>
     </td>
     <td>
-      <a href="https://rudraneel.netlify.app/">Website</a>
+      <a href="https://rudraneel.netlify.app/">Visit my Website</a>
     </td>
     <td>
       <a href="mailto:its.rudraneel@gmail.com">
@@ -26,7 +26,7 @@ Make sure to check out my work below!
       </a>
     </td>
     <td>
-      <a href="mailto:its.rudraneel@gmail.com">Email</a>
+      <a href="mailto:its.rudraneel@gmail.com">Send me an email</a>
     </td>
   </tr>
   <tr align="center">
@@ -36,7 +36,7 @@ Make sure to check out my work below!
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">Connect with me on LinkedIn</a>
     </td>
     <td>
       <a href="https://www.instagram.com/kraft3d_byrudy/">
@@ -44,7 +44,7 @@ Make sure to check out my work below!
       </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">Check out my Instagram</a>
     </td>
   </tr>
 </table>
