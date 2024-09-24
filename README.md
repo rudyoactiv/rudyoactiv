@@ -13,21 +13,30 @@ Make sure to check out my work below!
 <table style="width: 100%;">
   <tr align="center">
     <td>
-      <a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">Website</a>
+      <a href="https://rudraneel.netlify.app/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">
+        Website
+      </a>
     </td>
     <td>
-      <a href="mailto:its.rudraneel@gmail.com">        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email">
-Email</a>
+      <a href="mailto:its.rudraneel@gmail.com">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email">
+        Email
+      </a>
     </td>
       </tr>
       <tr>
     <td>
-      <a href="https://www.instagram.com/kraft3d_byrudy/">        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram">
-Instagram</a>
+      <a href="https://www.instagram.com/kraft3d_byrudy/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram">
+        Instagram
+      </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/its-rudraneel/">        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn">
-LinkedIn</a>
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn">
+        LinkedIn
+      </a>
     </td>
   </tr>
 </table>
