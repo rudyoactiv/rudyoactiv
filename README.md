@@ -15,17 +15,10 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraneel%20Dutta-blue)](https://www.linkedin.com/in/its-rudraneel/)
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudyoactiv&theme=dark" alt="GitHub Streak Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rudyoactiv&layout=compact&theme=dark" alt="Wakatime Stats">
-    </td>
-  </tr>
+  <td>
+    <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg"
+  </td>
 </table>
-
-
 
 ## 📚 Publications
 
@@ -60,7 +53,6 @@ I specialise in **Full Stack Development**, and **Machine Learning** Application
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats">
 </p>
-
 
 ## 🚀 Projects
 
