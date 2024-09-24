@@ -17,13 +17,18 @@ Make sure to check out my work below!
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website">
       </a>
     </td>
-    <td><a href="https://rudraneel.netlify.app/">
-          Website
-        </a>
-      </td>
+    <td>
+      <a href="https://rudraneel.netlify.app/">
+        Website
+      </a>
+    </td>
     <td>
       <a href="mailto:its.rudraneel@gmail.com">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email">
+      </a>
+    </td>
+        <td>
+      <a href="mailto:its.rudraneel@gmail.com">
         Email
       </a>
     </td>
