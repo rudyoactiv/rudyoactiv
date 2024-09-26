@@ -8,18 +8,17 @@ I'm a final year CS student and I love building stuff. So, when I'm not coding, 
 
 Make sure to check out my work below!
 
-<div align="center">
+
 
 | Header 1 | Header 2 |
 |----------|----------|
 | Row 1    | Row 2    |
 | Row 3    | Row 4    |
 
-</div>
 
 
 ## 📫 Get In Touch
-
+<div align="center">
 <table style="width: 100%;">
   <tr>
     <td align="left">
@@ -56,6 +55,7 @@ Make sure to check out my work below!
     </td>
   </tr>
 </table>
+</div>
 
 
 
