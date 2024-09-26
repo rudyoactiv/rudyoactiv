@@ -15,28 +15,28 @@ Make sure to check out my work below!
   <tr>
     <td style="text-align: center; width: 25%;">
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="max-width: 100%; height: auto;" />
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/website.svg" alt="Website" style="max-width: 80%; height: auto;" />
       </a>
       <br />
       <a href="https://rudraneel.netlify.app/">Website</a>
     </td>
     <td style="text-align: center; width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" style="max-width: 100%; height: auto;" />
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/email.svg" alt="E-mail" style="max-width: 80%; height: auto;" />
       </a>
       <br />
       <a href="mailto:its.rudraneel@gmail.com">E-mail</a>
     </td>
     <td style="text-align: center; width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="max-width: 100%; height: auto;" />
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/linkedin.svg" alt="LinkedIn" style="max-width: 80%; height: auto;" />
       </a>
       <br />
       <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
     </td>
     <td style="text-align: center; width: 25%;">
       <a href="https://www.instagram.com/kraft3d_byrudy/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="max-width: 100%; height: auto;" />
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/instagram.svg" alt="Instagram" style="max-width: 80%; height: auto;" />
       </a>
       <br />
       <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
@@ -45,6 +45,7 @@ Make sure to check out my work below!
 </table>
 
 </div>
+
 
 
 
