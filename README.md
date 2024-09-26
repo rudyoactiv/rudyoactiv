@@ -25,7 +25,7 @@ Make sure to check out my work below!
         <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/email.svg" alt="E-mail" style="max-width: 80%; height: auto;" />
       </a>
       <br />
-      <a href="mailto:its.rudraneel@gmail.com">E-mail</a>
+      <a href="mailto:its.rudraneel@gmail.com">email</a>
     </td>
     <td style="text-align: center; width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
