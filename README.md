@@ -9,45 +9,43 @@ I'm a final year CS student and I love building stuff. So, when I'm not coding, 
 Make sure to check out my work below!
 
 ## 📫 Get In Touch
+<div align="center">
 
-<table style="width: 100%;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="left">
+    <td style="text-align: center; width: 25%;">
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="width:50px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/website.svg" alt="Website" style="max-width: 80%; height: auto;" />
       </a>
+      <br />
+      <a href="https://rudraneel.netlify.app/">Website</a>
     </td>
-    <td align="left">
-      <a href="https://rudraneel.netlify.app/">My Website</a>
-    </td>
-    <td align="left">
+    <td style="text-align: center; width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:50px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/email.svg" alt="E-mail" style="max-width: 80%; height: auto;" />
       </a>
+      <br />
+      <a href="mailto:its.rudraneel@gmail.com">email</a>
     </td>
-    <td align="left">
-      <a href="mailto:its.rudraneel@gmail.com">Email</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
+    <td style="text-align: center; width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/linkedin.svg" alt="LinkedIn" style="max-width: 80%; height: auto;" />
       </a>
-    </td>
-    <td align="left">
+      <br />
       <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
     </td>
-    <td align="left">
+    <td style="text-align: center; width: 25%;">
       <a href="https://www.instagram.com/kraft3d_byrudy/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width:50px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/raw/main/instagram.svg" alt="Instagram" style="max-width: 80%; height: auto;" />
       </a>
-    </td>
-    <td align="left">
+      <br />
       <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 
