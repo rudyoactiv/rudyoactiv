@@ -38,6 +38,7 @@ Make sure to check out my work below!
     <td align="center" style="width: 25%;">
       <a href="https://rudraneel.netlify.app/">Website</a>
     </td>
+    <td></td>
     <td align="center" style="width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">E-mail</a>
     </td>
