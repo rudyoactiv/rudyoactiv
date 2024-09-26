@@ -28,8 +28,7 @@ Make sure to check out my work below!
     <td align="left">
       <a href="mailto:its.rudraneel@gmail.com">Email</a>
     </td>
-  </tr>
-  <tr>
+
     <td align="left">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
