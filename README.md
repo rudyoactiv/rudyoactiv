@@ -9,62 +9,40 @@ I'm a final year CS student and I love building stuff. So, when I'm not coding, 
 Make sure to check out my work below!
 
 ## 📫 Get In Touch
-
 <div align="center">
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center" style="width: 25%;">
+    <td style="text-align: center; width: 25%;">
       <a href="https://rudraneel.netlify.app/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="width:80px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="max-width: 100%; height: auto;" />
       </a>
+      <br />
+      <a href="https://rudraneel.netlify.app/">Website</a>
     </td>
-    <td></td>
-    <td align="center" style="width: 25%;">
+    <td style="text-align: center; width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:80px">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" style="max-width: 100%; height: auto;" />
       </a>
-    </td>
-    <td></td>
-    <td align="center" style="width: 25%;">
-      <a href="https://www.linkedin.com/in/its-rudraneel/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:80px">
-      </a>
-    </td>
-    <td></td>
-    <td align="center" style="width: 25%;">
-      <a href="https://www.instagram.com/kraft3d_byrudy/">
-        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width:80px">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width: 25%;">
-      <a href="https://rudraneel.netlify.app/">
-      Website
-      </a>
-    </td>
-    <td></td>
-    <td align="center" style="width: 25%;">
+      <br />
       <a href="mailto:its.rudraneel@gmail.com">E-mail</a>
     </td>
-    <td></td>
-    <td align="center" style="width: 25%;">
+    <td style="text-align: center; width: 25%;">
+      <a href="https://www.linkedin.com/in/its-rudraneel/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="max-width: 100%; height: auto;" />
+      </a>
+      <br />
       <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
     </td>
-    <td></td>
-    <td align="center" style="width: 25%;">
+    <td style="text-align: center; width: 25%;">
+      <a href="https://www.instagram.com/kraft3d_byrudy/">
+        <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="max-width: 100%; height: auto;" />
+      </a>
+      <br />
       <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
   </tr>
 </table>
-</div>
-
-
-<div align="center">
-
-| ![Website](https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg) | ![E-mail](https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg) | ![LinkedIn](https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg) | ![Instagram](https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg) |
-|:---:|:---:|:---:|:---:|
-| [Website](https://rudraneel.netlify.app/) | [E-mail](mailto:its.rudraneel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/its-rudraneel/) | [Instagram](https://www.instagram.com/kraft3d_byrudy/) |
 
 </div>
 
