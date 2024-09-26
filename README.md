@@ -10,7 +10,7 @@ Make sure to check out my work below!
 
 ## 📫 Get In Touch
 
-<div align="center" style="width: 10px;">
+<div align="center">
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width: 25%;">
