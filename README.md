@@ -24,7 +24,7 @@ Make sure to check out my work below!
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:50px">
       </a>
     </td>
-    <td style="width: 2500px;"></td>
+    <td></td>
     <td align="center" style="width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
@@ -39,7 +39,9 @@ Make sure to check out my work below!
   </tr>
   <tr>
     <td align="center" style="width: 25%;">
-      <a href="https://rudraneel.netlify.app/">Website</a>
+      <a href="https://rudraneel.netlify.app/">
+      <span style="width: 200px" > Website </span>
+      </a>
     </td>
     <td></td>
     <td align="center" style="width: 25%;">
