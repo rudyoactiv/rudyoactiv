@@ -8,17 +8,8 @@ I'm a final year CS student and I love building stuff. So, when I'm not coding, 
 
 Make sure to check out my work below!
 
-
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1    | Row 2    |
-| Row 3    | Row 4    |
-
-
-
 ## 📫 Get In Touch
-<div align="center">
+
 <table style="width: 100%;">
   <tr>
     <td align="left">
@@ -37,6 +28,8 @@ Make sure to check out my work below!
     <td align="left">
       <a href="mailto:its.rudraneel@gmail.com">Email</a>
     </td>
+  </tr>
+  <tr>
     <td align="left">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
@@ -55,7 +48,6 @@ Make sure to check out my work below!
     </td>
   </tr>
 </table>
-</div>
 
 
 
