@@ -10,6 +10,7 @@ Make sure to check out my work below!
 
 ## 📫 Get In Touch
 
+<div align="center">
 <table style="width: 100%;">
   <tr>
     <td align="left">
@@ -48,6 +49,7 @@ Make sure to check out my work below!
     </td>
   </tr>
 </table>
+</div>
 
 
 
