@@ -10,8 +10,8 @@ Make sure to check out my work below!
 
 ## 📫 Get In Touch
 
-<div align="center">
-<table style="width: 1000px; table-layout: fixed;">
+<div align="center" style="width: 10px;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width: 25%;">
       <a href="https://rudraneel.netlify.app/">
