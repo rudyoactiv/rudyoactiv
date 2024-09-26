@@ -60,6 +60,14 @@ Make sure to check out my work below!
 </div>
 
 
+<div align="center">
+
+| ![Website](https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg) | ![E-mail](https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg) | ![LinkedIn](https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg) | ![Instagram](https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg) |
+|:---:|:---:|:---:|:---:|
+| [Website](https://rudraneel.netlify.app/) | [E-mail](mailto:its.rudraneel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/its-rudraneel/) | [Instagram](https://www.instagram.com/kraft3d_byrudy/) |
+
+</div>
+
 
 
 ## 📚 Publications
