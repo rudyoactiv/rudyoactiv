@@ -42,9 +42,11 @@ Make sure to check out my work below!
     <td align="center" style="width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">E-mail</a>
     </td>
+    <td></td>
     <td align="center" style="width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a>
     </td>
+    <td></td>
     <td align="center" style="width: 25%;">
       <a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a>
     </td>
