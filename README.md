@@ -10,23 +10,20 @@ Make sure to check out my work below!
 
 ## 📫 Get In Touch
 <div align="center">
-
-<table>
+<table style="width: 100%;">
     <tr>
-        <td><a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" /></a></td>
-        <td><a href="mailto:its.rudraneel@gmail.com"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" width="50" /></a></td>
-        <td><a href="https://www.linkedin.com/in/its-rudraneel/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" /></a></td>
-        <td><a href="https://www.instagram.com/kraft3d_byrudy/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" /></a></td>
+        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" /></a></td>
+        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" width="50" /></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" /></a></td>
+        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" /></a></td>
     </tr>
     <tr>
-        <td><a href="https://rudraneel.netlify.app/">Website</a></td>
-        <td><a href="mailto:its.rudraneel@gmail.com">E-mail</a></td>
-        <td><a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a></td>
-        <td><a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a></td>
+        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/">Website</a></td>
+        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com">E-mail</a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a></td>
+        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a></td>
     </tr>
 </table>
-
-
 </div>
 
 
