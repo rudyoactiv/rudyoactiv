@@ -18,16 +18,19 @@ Make sure to check out my work below!
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" style="width:50px">
       </a>
     </td>
+    <td></td>
     <td align="center" style="width: 25%;">
       <a href="mailto:its.rudraneel@gmail.com">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="Email" style="width:50px">
       </a>
     </td>
+    <td></td>
     <td align="center" style="width: 25%;">
       <a href="https://www.linkedin.com/in/its-rudraneel/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" style="width:50px">
       </a>
     </td>
+    <td></td>
     <td align="center" style="width: 25%;">
       <a href="https://www.instagram.com/kraft3d_byrudy/">
         <img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" style="width:50px">
