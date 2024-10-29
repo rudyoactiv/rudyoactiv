@@ -69,7 +69,7 @@ Make sure to check out my work below!
 
 ## 🚀 Projects
 
-### [Website to Sell 3D Printed Models](https://kraft3d.netlify.app/)
+### [Kraft3D: Online 3D Printing E-Commerce](https://kraft3d.netlify.app/)
 
 A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
 
