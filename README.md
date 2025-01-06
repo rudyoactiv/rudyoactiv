@@ -10,12 +10,21 @@ Make sure to check out my work below!
 
 ## 🚀 Projects
 
-<a href="https://github.com/rudyoactiv/typescribe-handwriting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudyoactiv&repo=typescribe-handwriting" />
-</a>
-<a href="https://github.com/rudyoactiv/Kraft3D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudyoactiv&repo=kraft3d" />
-</a>
+### [TypeScribe: Handwriting Generation](https://rudraneelduttacom/typescribe/)
+
+50+ stars ⭐ and counting. Generate natural handwritten documents from text with the click of a button!
+
+### [Kraft3D: Online 3D Printing Platform](https://rudraneelduttacom/kraft3d)
+
+India's most affordable online E-Commerce Platform for 3D Printed stuff!
+
+### [Predicto: Your Medical Assistant](https://rudraneelduttacom/diagnosis)
+
+Predict a large number of medical conditions with Predicto. Also comes with a friendly Google Gemini bot built in!
+
+### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
+
+A light-weight lane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
 
 ## 🔧 Tools & Technologies
 
