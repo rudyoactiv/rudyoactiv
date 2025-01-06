@@ -8,7 +8,7 @@ I'm a final year CS student and I love building stuff. So, when I'm not coding, 
 
 Make sure to check out my work below!
 
-## 🚀 Projects
+## 📁 Projects
 
 ### [TypeScribe: Handwriting Generation](https://rudraneelduttacom/typescribe/)
 
