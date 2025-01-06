@@ -24,16 +24,21 @@ A light-weight lane and Vehicle Detection Model developed in Python and fine-tun
 
 
 ## 🔧 Tools & Technologies
-
-- **Languages:** Python, JavaScript, C, C++, Java
-- **Frameworks:** React, Express.js, Django, TensorFlow, PyTorch, Three.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, Docker, Jupyter, Postman
-
-<!-- GitHub Stats Widget -->
-<p align="center">
+<table align="center" style="width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <ul>
+        <li><b>Languages:</b> Python, JavaScript, C, C++, Java</li>
+        <li><b>Frameworks:</b> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
+        <li><b>Database:</b> MongoDB, MySQL</li>
+        <li><b>Tools:</b> Git, Docker, Jupyter, Postman</li>
+      </ul>
+    </td>
+    <td style="text-align: center; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats">
-</p>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Publications
 
@@ -81,12 +86,12 @@ A light-weight lane and Vehicle Detection Model developed in Python and fine-tun
 
 ## 📫 Get In Touch
 <div align="center" style="width: 100%;">
-<table style="width: 100%;">
+<table align="center"  style="width: 100%;">
     <tr>
-        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" /></a></td>
-        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" width="50" /></a></td>
-        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" /></a></td>
-        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" /></a></td>
+        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="75" /></a></td>
+        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" width="75" /></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="75" /></a></td>
+        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="75" /></a></td>
     </tr>
     <tr>
         <td style="text-align: center;"><a href="https://rudraneel.netlify.app/">Website</a></td>
