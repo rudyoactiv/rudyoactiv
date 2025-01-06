@@ -8,26 +8,32 @@ I'm a final year CS student and I love building stuff. So, when I'm not coding, 
 
 Make sure to check out my work below!
 
-## 📫 Get In Touch
-<div align="center">
-<table style="width: 100%;">
-    <tr>
-        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" /></a></td>
-        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" width="50" /></a></td>
-        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" /></a></td>
-        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" /></a></td>
-    </tr>
-    <tr>
-        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/">Website</a></td>
-        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com">E-mail</a></td>
-        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a></td>
-        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a></td>
-    </tr>
-</table>
-</div>
+## 🚀 Projects
+
+### [Kraft3D: Online 3D Printing E-Commerce](https://kraft3d.netlify.app/)
+
+A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
+
+### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
+
+A social platform for students to find other students to mutually swap classes with.
+
+### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
+
+A light-weight laane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
 
 
+## 🔧 Tools & Technologies
 
+- **Languages:** Python, JavaScript, C, C++, Java
+- **Frameworks:** React, Express.js, Django, TensorFlow, PyTorch, Three.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, Docker, Jupyter, Postman
+
+<!-- GitHub Stats Widget -->
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats">
+</p>
 
 ## 📚 Publications
 
@@ -55,37 +61,6 @@ Make sure to check out my work below!
   </tr>
 </table>
 
-## 🔧 Tools & Technologies
-
-- **Languages:** Python, JavaScript, C, C++, Java
-- **Frameworks:** React, Express.js, Django, TensorFlow, PyTorch, Three.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, Docker, Jupyter, Postman
-
-<!-- GitHub Stats Widget -->
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats">
-</p>
-
-## 🚀 Projects
-
-### [Kraft3D: Online 3D Printing E-Commerce](https://kraft3d.netlify.app/)
-
-A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
-
-### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
-
-A social platform for students to find other students to mutually swap classes with.
-
-### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
-
-A light-weight laane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
-
-## 🎓 Education
-
-- Bachelor of Technology in Computer Science and Engineering at Kalinga Institute of Industrial Technology
-- La Martiniere Calcutta, ISC 2021
-
 ## 💻 My Stats
 
 <table>
@@ -99,6 +74,25 @@ A light-weight laane and Vehicle Detection Model developed in Python and fine-tu
   </tr>
 </table>
 
-## 💬 Let's Connect
+## 🎓 Education
 
-Feel free to reach out to me if you have any questions or just want to chat about technology and development.
+- Bachelor of Technology in Computer Science and Engineering at Kalinga Institute of Industrial Technology
+- La Martiniere Calcutta, ISC 2021
+
+## 📫 Get In Touch
+<div align="center">
+<table style="width: 100%;">
+    <tr>
+        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" /></a></td>
+        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/email.svg" alt="E-mail" width="50" /></a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/linkedin.svg" alt="LinkedIn" width="50" /></a></td>
+        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/instagram.svg" alt="Instagram" width="50" /></a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://rudraneel.netlify.app/">Website</a></td>
+        <td style="text-align: center;"><a href="mailto:its.rudraneel@gmail.com">E-mail</a></td>
+        <td style="text-align: center;"><a href="https://www.linkedin.com/in/its-rudraneel/">LinkedIn</a></td>
+        <td style="text-align: center;"><a href="https://www.instagram.com/kraft3d_byrudy/">Instagram</a></td>
+    </tr>
+</table>
+</div>
