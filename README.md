@@ -10,18 +10,12 @@ Make sure to check out my work below!
 
 ## 🚀 Projects
 
-### [Kraft3D: Online 3D Printing E-Commerce](https://kraft3d.netlify.app/)
-
-A platform for selling 3D printed models with categories like Decor, Lithophane, and Utility.
-
-### [PeerSphere: The Student Platform](https://peersphere.netlify.app/)
-
-A social platform for students to find other students to mutually swap classes with.
-
-### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
-
-A light-weight lane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
-
+<a href="https://github.com/rudyoactiv/typescribe-handwriting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudyoactiv&repo=typescribe-handwriting" />
+</a>
+<a href="https://github.com/rudyoactiv/Kraft3D">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudyoactiv&repo=kraft3d" />
+</a>
 
 ## 🔧 Tools & Technologies
 
