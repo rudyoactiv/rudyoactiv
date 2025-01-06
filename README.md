@@ -24,21 +24,16 @@ A light-weight lane and Vehicle Detection Model developed in Python and fine-tun
 
 
 ## 🔧 Tools & Technologies
-<table align="center" style="width: 100%;">
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <ul>
-        <li><b>Languages:</b> Python, JavaScript, C, C++, Java</li>
-        <li><b>Frameworks:</b> React, Express.js, Django, TensorFlow, PyTorch, Three.js</li>
-        <li><b>Database:</b> MongoDB, MySQL</li>
-        <li><b>Tools:</b> Git, Docker, Jupyter, Postman</li>
-      </ul>
-    </td>
-    <td style="text-align: center; width: 50%;">
+
+- **Languages:** Python, JavaScript, C, C++, Java
+- **Frameworks:** React, Express.js, Django, TensorFlow, PyTorch, Three.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, Docker, Jupyter, Postman
+
+<!-- GitHub Stats Widget -->
+<p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats">
-    </td>
-  </tr>
-</table>
+</p>
 
 ## 📚 Publications
 
