@@ -20,7 +20,7 @@ A social platform for students to find other students to mutually swap classes w
 
 ### [Autonomous Driving Vehicle System](https://github.com/rudyoactiv/autonomous-driving)
 
-A light-weight laane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
+A light-weight lane and Vehicle Detection Model developed in Python and fine-tuned for Indian traffic conditions.
 
 
 ## 🔧 Tools & Technologies
@@ -80,7 +80,7 @@ A light-weight laane and Vehicle Detection Model developed in Python and fine-tu
 - La Martiniere Calcutta, ISC 2021
 
 ## 📫 Get In Touch
-<div align="center">
+<div align="center" style="width: 100%;">
 <table style="width: 100%;">
     <tr>
         <td style="text-align: center;"><a href="https://rudraneel.netlify.app/"><img src="https://github.com/rudyoactiv/rudyoactiv/blob/main/website.svg" alt="Website" width="50" /></a></td>
