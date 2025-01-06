@@ -91,7 +91,7 @@ A light-weight laane and Vehicle Detection Model developed in Python and fine-tu
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Rudraneel's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&count_private=true&theme=transparent&ring_color=ffa116&title_color=000&rank_icon=github&include_all_commits=true" alt="Rudraneel's GitHub Stats">
     </td>
     <td>
       <img src="https://leetcard.jacoblin.cool/Rudyoactiv" alt="LeetCode Stats">
