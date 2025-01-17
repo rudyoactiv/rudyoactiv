@@ -10,15 +10,15 @@ Make sure to check out my work below!
 
 ## 📁 Projects
 
-### [TypeScribe: Handwriting Generation](https://rudraneelduttacom/typescribe/)
+### [TypeScribe: Handwriting Generation](https://rudraneeldutta.com/typescribe/)
 
 50+ stars ⭐ and counting. Generate natural handwritten documents from text with the click of a button!
 
-### [Kraft3D: Online 3D Printing Platform](https://rudraneelduttacom/kraft3d)
+### [Kraft3D: Online 3D Printing Platform](https://rudraneeldutta.com/kraft3d)
 
 India's most affordable online E-Commerce Platform for 3D Printed stuff!
 
-### [Predicto: Your Medical Assistant](https://rudraneelduttacom/diagnosis)
+### [Predicto: Your Medical Assistant](https://rudraneeldutta.com/diagnosis)
 
 Predict a large number of medical conditions with Predicto. Also comes with a friendly Google Gemini bot built in!
 
