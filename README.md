@@ -12,7 +12,7 @@ Make sure to check out my work below!
 
 ### [TypeScribe: Handwriting Generation](https://rudraneeldutta.com/typescribe/)
 
-50+ stars ⭐ and counting. Generate natural handwritten documents from text with the click of a button!
+60+ stars ⭐ and counting. Generate natural handwritten documents from text with the click of a button!
 
 ### [Kraft3D: Online 3D Printing Platform](https://rudraneeldutta.com/kraft3d)
 
